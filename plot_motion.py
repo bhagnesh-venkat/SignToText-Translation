@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-data = np.load("landmarks/Accommodation.npy")   # change to your file name
+data = np.load("/Users/venkat/Documents/Sign2Text(RAG)/processed/48. Hello/MVI_0029.npy")   # change to your file name
 print("Shape:", data.shape)
 
 plt.plot(data[:, 99], label="left hand wrist (x)")

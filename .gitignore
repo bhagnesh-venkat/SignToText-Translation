@@ -1,1 +1,26 @@
 slt-env/
+__pycache__/
+*.pyc
+.DS_Store
+
+# data and generated files
+Greetings/
+landmarks/
+processed/
+preview_demo/
+*.npy
+*.mp4
+*.mov
+*.MOV
+*.avi
+
+# LaTeX build files
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+*.fls
+*.fdb_latexmk
