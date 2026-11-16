@@ -1,0 +1,100 @@
+video,true_sentence,top1_sentence,top1_similarity,gap_to_rank2,true_rank,true_similarity
+i enjoyed a lot__i enjoyed a lot (2).npy,i enjoyed a lot,why are you disappointed,0.4796,0.0160,29,0.2040
+nice to meet you__nice to meet you (8).npy,nice to meet you,why are you disappointed,0.6193,0.0388,14,0.4100
+my name is xxxxxxxx__my name is xxxxxxxx (1).npy,my name is xxxxxxxx,my name is xxxxxxxx,0.6265,0.0070,1,0.6265
+it was nice chatting with you__MVI_6853.npy,it was nice chatting with you,wear the shirt,0.6473,0.0240,2,0.6233
+now onwards he will never hurt you__now onwards he will never hurt you.npy,now onwards he will never hurt you,do not worry,0.6727,0.0018,11,0.4026
+when will the train leave__leave (5).npy,when will the train leave,when will the train leave,0.6929,0.0300,1,0.6929
+i do not mean it__i do not mean it.npy,i do not mean it,serve the food,0.7060,0.0182,2,0.6878
+i can not help you there__i can not help you there.npy,i can not help you there,how can i help you,0.7087,0.0219,6,0.6001
+do not abuse him__abuse (2).npy,do not abuse him,do not abuse him,0.7136,0.0005,1,0.7136
+i am not really sure__i am not really sure (2).npy,i am not really sure,how can i help you,0.7227,0.1548,16,0.4362
+what have you planned for your career__what have you planned for your career.npy,what have you planned for your career,do not be stubborn,0.7340,0.0382,30,0.2467
+could you please talk slower__could you please talk slower (3).npy,could you please talk slower,"you do anything, i do not care",0.7377,0.1036,50,-0.1024
+go and sleep__go and sleep (2).npy,go and sleep,He is going into the room,0.7389,0.0591,9,0.5118
+"you do anything, i do not care__dont care.npy","you do anything, i do not care","you do anything, i do not care",0.7453,0.0359,1,0.7453
+we are all with you__we are all with you (2).npy,we are all with you,He is going into the room,0.7485,0.0241,5,0.6261
+i really appreciate it__i really appreciate it (2).npy,i really appreciate it,i really appreciate it,0.7485,0.0862,1,0.7485
+it does not make any difference to me__difference (5).npy,it does not make any difference to me,it does not make any difference to me,0.7512,0.0402,1,0.7512
+are you hiding something__MVI_6685.npy,are you hiding something,are you hiding something,0.7661,0.0144,1,0.7661
+that is so kind of you__that is so kind of you (2).npy,that is so kind of you,i am very happy,0.7704,0.0088,12,0.5937
+tell me truth__truth (2).npy,tell me truth,tell me truth,0.7718,0.0042,1,0.7718
+what do you think__what do you think (1).npy,what do you think,i do not like it,0.7784,0.0241,2,0.7544
+bring water for me__bring water for me (8).npy,bring water for me,you are bad,0.7839,0.1092,7,0.5114
+how old are you__how old are you (3).npy,how old are you,i am (age),0.7861,0.0291,4,0.6229
+i do not agree__agree (3).npy,i do not agree,it does not make any difference to me,0.7878,0.0107,20,0.3749
+speak softly__softly 1.npy,speak softly,what did you tell him,0.7910,0.0433,2,0.7477
+i was stopped by some one__MVI_6504.npy,i was stopped by some one,i am tired,0.7923,0.0499,35,0.1730
+do not make me angry__do not make me angry (2).npy,do not make me angry,tell me truth,0.7925,0.0965,5,0.6313
+who are you__who are you (1).npy,who are you,you are welcome,0.7977,0.0988,52,-0.0573
+you are welcome__welcome (2).npy,you are welcome,he came by train,0.8019,0.0958,5,0.6312
+which collegeschool are you from__college school.npy,which college school are you from,i do not like it,0.8026,0.0195,2,0.7832
+i like you i love you__i love you.npy,i like you i love you,do not be stubborn,0.8029,0.0781,4,0.6693
+how are things__things (4).npy,how are things,how are things,0.8031,0.0337,1,0.8031
+you are bad__bad (2).npy,you are bad,why are you disappointed,0.8104,0.1433,40,0.0750
+This place is beautiful__beautiful (4).npy,This place is beautiful,This place is beautiful,0.8109,0.1789,1,0.8109
+what is your phone number__what is your phone number (1).npy,what is your phone number,i am afraid of that,0.8124,0.0388,2,0.7736
+i am afraid of that__afraid (2).npy,i am afraid of that,i am afraid of that,0.8132,0.0110,1,0.8132
+hi how are you__hi how are you (4).npy,hi how are you,hi how are you,0.8144,0.1827,1,0.8144
+prepare the bed__bed (4).npy,prepare the bed,prepare the bed,0.8176,0.1647,1,0.8176
+what do you do__what do you do (3).npy,what do you do,what are you doing,0.8198,0.0366,2,0.7832
+where are you from__where are you from (6).npy,where are you from,where are you from,0.8242,0.0750,1,0.8242
+i am in dilemma what to do__dilemma (4).npy,i am in dilemma what to do,go and sleep,0.8277,0.0940,5,0.5862
+he would be coming today__today (4).npy,he would be coming today,he would be coming today,0.8300,0.1015,1,0.8300
+do you need something__need something (2).npy,do you need something,are you hiding something,0.8309,0.0369,2,0.7940
+can you repeat that please__can you repeat that please (7).npy,can you repeat that please,what is your phone number,0.8345,0.1087,37,0.1221
+why are you angry__why are you angry (2).npy,why are you angry,what happened,0.8358,0.1836,37,0.0936
+help me__help me (7).npy,help me,i can not help you there,0.8428,0.0955,9,0.5645
+i am hungry__i am hungry   (3).npy,i am hungry,i need water,0.8518,0.1895,9,0.4483
+try to understand__understand (5).npy,try to understand,try to understand,0.8518,0.1133,1,0.8518
+do me a favour__favour (4).npy,do me a favour,i promise,0.8528,0.0014,2,0.8514
+i do not like it__hate it.npy,i do not like it,i do not like it,0.8528,0.0540,1,0.8528
+why are you crying__crying (4).npy,why are you crying,do not abuse him,0.8532,0.0399,2,0.8133
+how dare you__dare (4).npy,how dare you,wear the shirt,0.8548,0.0016,2,0.8532
+do not worry__worry (2).npy,do not worry,how can i trust you,0.8551,0.0289,13,0.4513
+i somehow got to know about it__somehow.npy,i somehow got to know about it,you are bad,0.8565,0.0524,7,0.6214
+he is on the way__way (4).npy,he is on the way,i somehow got to know about it,0.8594,0.0241,6,0.5828
+wear the shirt__shirt (3).npy,wear the shirt,wear the shirt,0.8597,0.0540,1,0.8597
+i am fine. thank you sir__fine thank.npy,i am fine. thank you sir,i am fine. thank you sir,0.8608,0.0264,1,0.8608
+do not hurt me__do not hurt me (2).npy,do not hurt me,i got hurt,0.8609,0.0801,2,0.7808
+i am really grateful__MVI_6721.npy,i am really grateful,nice to meet you,0.8669,0.0097,4,0.7883
+"you need a medicine, take this one__medicine.npy","you need a medicine, take this one",serve the food,0.8718,0.1545,5,0.5939
+serve the food__serve 1.npy,serve the food,do not abuse him,0.8747,0.2085,11,0.4363
+pour some more water into the glass__pour.npy,pour some more water into the glass,pour some more water into the glass,0.8824,0.1417,1,0.8824
+i am sitting in the class__sitting (2).npy,i am sitting in the class,i am sitting in the class,0.8842,0.1624,1,0.8842
+why are you disappointed__disappointed (4).npy,why are you disappointed,what do you think,0.8848,0.0736,6,0.5972
+i am feeling cold__cold (5).npy,i am feeling cold,i am crying,0.8866,0.0538,4,0.7556
+he came by train__train (3).npy,he came by train,you are welcome,0.8871,0.1591,2,0.7280
+had your food__had your food.npy,had your food,had your food,0.8880,0.2633,1,0.8880
+what are you doing__what are you doing (8).npy,what are you doing,what do you do,0.8922,0.1272,2,0.7649
+do not take it to the heart__heart (3).npy,do not take it to the heart,do not take it to the heart,0.8946,0.2195,1,0.8946
+He is going into the room__he is going into the room (2).npy,He is going into the room,shall we go outside,0.8983,0.0389,3,0.7320
+he she is my friend__friend (2).npy,he she is my friend,he she is my friend,0.9008,0.1202,1,0.9008
+what you want__what you want (1).npy,what you want,what is your phone number,0.9043,0.1409,4,0.7407
+i am tired__tired.npy,i am tired,i am tired,0.9097,0.1178,1,0.9097
+how can i trust you__trust.npy,how can i trust you,why are you disappointed,0.9118,0.0694,18,0.2998
+what did you tell him__what did you tell him.npy,what did you tell him,you are good,0.9158,0.0834,7,0.5940
+what happened__MVI_6495.npy,what happened,what did you tell him,0.9185,0.1016,2,0.8169
+i am so sorry to hear that__sorry hear (5).npy,i am so sorry to hear that,that is so kind of you,0.9225,0.0693,2,0.8532
+can i help you__help (3).npy,can i help you,can i help you,0.9230,0.0691,1,0.9230
+what do you want to become__become.npy,what do you want to become,what do you want to become,0.9238,0.1199,1,0.9238
+i am (age)__i am (age) (1).npy,i am (age),i am crying,0.9242,0.0598,2,0.8644
+congratulations__congratulations (3).npy,congratulations,congratulations,0.9245,0.1725,1,0.9245
+thank you so much__thank you so much (6).npy,thank you so much,thank you so much,0.9248,0.1873,1,0.9248
+turn on light turn off light__turn on.npy,turn on light turn off light,turn on light turn off light,0.9251,0.1881,1,0.9251
+shall we go outside__outside.npy,shall we go outside,shall we go outside,0.9260,0.1969,1,0.9260
+i am feeling bored__bored (5).npy,i am feeling bored,i am feeling bored,0.9277,0.0790,1,0.9277
+do not be stubborn__stubborn.npy,do not be stubborn,do not take it to the heart,0.9366,0.0612,2,0.8754
+i need water__i need water 1.npy,i need water,i need water,0.9375,0.0828,1,0.9375
+let him take time__time (3).npy,let him take time,let him take time,0.9406,0.1706,1,0.9406
+i am suffering from fever__fever (3).npy,i am suffering from fever,i am suffering from fever,0.9467,0.2266,1,0.9467
+i am crying__i am crying (3).npy,i am crying,i am crying,0.9497,0.0043,1,0.9497
+i got hurt__i got hurt.npy,i got hurt,i am really grateful,0.9509,0.1227,11,0.4967
+comb your hair__comb (4).npy,comb your hair,comb your hair,0.9555,0.3250,1,0.9555
+are you free today__free (3).npy,are you free today,are you free today,0.9587,0.3109,1,0.9587
+i am very happy__very happy (2).npy,i am very happy,i am very happy,0.9640,0.1083,1,0.9640
+take care of yourself__take care.npy,take care of yourself,take care of yourself,0.9715,0.1360,1,0.9715
+i promise__promise (4).npy,i promise,i promise,0.9721,0.2439,1,0.9721
+how can i help you__how can i help you (4).npy,how can i help you,can i help you,0.9730,0.0574,3,0.9147
+you can do it__can do.npy,you can do it,you can do it,0.9797,0.0559,1,0.9797
+you are good__good (2).npy,you are good,you are good,0.9823,0.0352,1,0.9823

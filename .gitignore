@@ -1,0 +1,49 @@
+slt-env/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+ISL/isl_data/
+ISign/
+Include/Greetings/
+*.mp4
+*.MP4
+*.mov
+*.avi
+
+landmarks/
+ISL/landmarks1/
+landmarks_test/
+Include/landmarks/
+Include/processed/
+Include/preview_demo/
+Include/preview_input/
+Include/preview_out/
+
+encoder_final.pt
+
+
+# Python virtual environment
+slt-env/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Mac files
+.DS_Store
+
+# IDE
+.vscode/
+
+# Model and dataset files (if not needed in Git)
+*.pkl
+*.h5
+*.pt
+*.pth

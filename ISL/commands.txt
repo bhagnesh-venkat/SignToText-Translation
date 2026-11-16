@@ -1,0 +1,8 @@
+python translate_full.py "isl_data/ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Videos_Sentence_Level/i really appreciate it/i really appreciate it (2).mp4" --true "i really appreciate it" 2>/dev/null
+
+python translate_full.py "isl_data/ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Videos_Sentence_Level/do not hurt me/do not hurt me (2).mp4" --true "do not hurt me" 2>/dev/null
+
+python translate_full.py "isl_data/ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Videos_Sentence_Level/This place is beautiful/beautiful (4).mp4" --true "This place is beautiful" 2>/dev/null
+
+
+python translate.py "isl_data/ISL_CSLRT_Corpus/ISL_CSLRT_Corpus/Videos_Sentence_Level/i enjoyed a lot/i enjoyed a lot (2).mp4" --true "i enjoyed a lot" 2>/dev/null

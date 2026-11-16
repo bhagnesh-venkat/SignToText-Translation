@@ -1,0 +1,596 @@
+======================================================================
+video: do you need something__need something (2).npy
+true sentence: do you need something
+  1. 0.831  are you hiding something   [YOU HIDE SOMETHING]
+  2. 0.794  do you need something   [DO YOU NEED SOMETHING]   <-- correct
+  3. 0.677  serve the food   [SERVE FOOD]
+======================================================================
+video: that is so kind of you__that is so kind of you (2).npy
+true sentence: that is so kind of you
+  1. 0.770  i am very happy   [I VERY HAPPY]
+  2. 0.762  i am feeling cold   [I FEELING COLD]
+  3. 0.747  i am hungry   [I HUNGRY]
+======================================================================
+video: congratulations__congratulations (3).npy
+true sentence: congratulations
+  1. 0.925  congratulations   [CONGRATULATIIONS]   <-- correct
+  2. 0.752  you are good   [YOU GOOD]
+  3. 0.712  you are welcome   [YOU WELCOME]
+======================================================================
+video: i am afraid of that__afraid (2).npy
+true sentence: i am afraid of that
+  1. 0.813  i am afraid of that   [I AFRAID THAT]   <-- correct
+  2. 0.802  had your food   [YOUR FOOD]
+  3. 0.683  how can i trust you   [HOW I TRUST YOU]
+======================================================================
+video: do not take it to the heart__heart (3).npy
+true sentence: do not take it to the heart
+  1. 0.895  do not take it to the heart   [DO NOT TAKE IT HEART]   <-- correct
+  2. 0.675  are you free today   [YOU FREE TODAY]
+  3. 0.665  now onwards he will never hurt you   [NOW ONWARDS HE NEVER HURT YOU]
+======================================================================
+video: now onwards he will never hurt you__now onwards he will never hurt you.npy
+true sentence: now onwards he will never hurt you
+  1. 0.673  do not worry   [DO NOT WORRY]
+  2. 0.671  i was stopped by some one   [I STOPPED BY SOMEONE]
+  3. 0.623  i really appreciate it   [I REALLY APPRECIATE IT]
+======================================================================
+video: i was stopped by some one__MVI_6504.npy
+true sentence: i was stopped by some one
+  1. 0.792  i am tired   [I TIRED]
+  2. 0.742  i am not really sure   [I NOT REALLY SURE]
+  3. 0.629  it was nice chatting with you   [IT NICE CHAT WITH YOU]
+======================================================================
+video: let him take time__time (3).npy
+true sentence: let him take time
+  1. 0.941  let him take time   [LET HIM TAKE TIME]   <-- correct
+  2. 0.770  when will the train leave   [WHEN TRAIN LEAVE]
+  3. 0.706  now onwards he will never hurt you   [NOW ONWARDS HE NEVER HURT YOU]
+======================================================================
+video: what have you planned for your career__what have you planned for your career.npy
+true sentence: what have you planned for your career
+  1. 0.734  do not be stubborn   [DONOT BE STUBBORN]
+  2. 0.696  it was nice chatting with you   [IT NICE CHAT WITH YOU]
+  3. 0.689  it does not make any difference to me   [IT DO NOT MAKE ANY DIFFERENCE TO ME]
+======================================================================
+video: i do not like it__hate it.npy
+true sentence: i do not like it
+  1. 0.853  i do not like it   [I DO NOT LIKE IT]   <-- correct
+  2. 0.799  try to understand   [TRY TO UNDERSTAND]
+  3. 0.789  where are you from   [WHERE YOU FROM]
+======================================================================
+video: how are things__things (4).npy
+true sentence: how are things
+  1. 0.803  how are things   [HOW THINGS]   <-- correct
+  2. 0.769  are you free today   [YOU FREE TODAY]
+  3. 0.689  do not take it to the heart   [DO NOT TAKE IT HEART]
+======================================================================
+video: do not be stubborn__stubborn.npy
+true sentence: do not be stubborn
+  1. 0.937  do not take it to the heart   [DO NOT TAKE IT HEART]
+  2. 0.875  do not be stubborn   [DONOT BE STUBBORN]   <-- correct
+  3. 0.648  i am suffering from fever   [I SUFFERING FROM FEVER]
+======================================================================
+video: nice to meet you__nice to meet you (8).npy
+true sentence: nice to meet you
+  1. 0.619  why are you disappointed   [WHY YOU DISAPPOINTED]
+  2. 0.580  i am afraid of that   [I AFRAID THAT]
+  3. 0.579  i am not really sure   [I NOT REALLY SURE]
+======================================================================
+video: are you hiding something__MVI_6685.npy
+true sentence: are you hiding something
+  1. 0.766  are you hiding something   [YOU HIDE SOMETHING]   <-- correct
+  2. 0.752  could you please talk slower   [YOU PLEASE TALK SLOWER]
+  3. 0.700  shall we go outside   [WE GO OUTSIDE]
+======================================================================
+video: i do not mean it__i do not mean it.npy
+true sentence: i do not mean it
+  1. 0.706  serve the food   [SERVE FOOD]
+  2. 0.688  i do not mean it   [I DO NOT MEAN IT]   <-- correct
+  3. 0.643  i do not like it   [I DO NOT LIKE IT]
+======================================================================
+video: i really appreciate it__i really appreciate it (2).npy
+true sentence: i really appreciate it
+  1. 0.749  i really appreciate it   [I REALLY APPRECIATE IT]   <-- correct
+  2. 0.662  do not worry   [DO NOT WORRY]
+  3. 0.659  No need to worry dont worry   [NO NEED WORRY DONT WORRY]
+======================================================================
+video: what are you doing__what are you doing (8).npy
+true sentence: what are you doing
+  1. 0.892  what do you do   [WHAT YOU DO]
+  2. 0.765  what are you doing   [WHAT YOU DO]   <-- correct
+  3. 0.753  you are good   [YOU GOOD]
+======================================================================
+video: He is going into the room__he is going into the room (2).npy
+true sentence: He is going into the room
+  1. 0.898  shall we go outside   [WE GO OUTSIDE]
+  2. 0.859  i am sitting in the class   [I SITTING IN THE CLASS]
+  3. 0.732  He is going into the room   [HE GO  INTO  ROOM]   <-- correct
+======================================================================
+video: why are you disappointed__disappointed (4).npy
+true sentence: why are you disappointed
+  1. 0.885  what do you think   [WHAT DO YOU THINK]
+  2. 0.811  what do you do   [WHAT YOU DO]
+  3. 0.738  what are you doing   [WHAT YOU DO]
+======================================================================
+video: i am feeling bored__bored (5).npy
+true sentence: i am feeling bored
+  1. 0.928  i am feeling bored   [I FEELING BORED]   <-- correct
+  2. 0.849  i am tired   [I TIRED]
+  3. 0.713  i am in dilemma what to do   [I IN DILEMMA WHAT TO DO]
+======================================================================
+video: how dare you__dare (4).npy
+true sentence: how dare you
+  1. 0.855  wear the shirt   [WEAR SHIRT]
+  2. 0.853  how dare you   [HOW DARE YOU]   <-- correct
+  3. 0.646  can you repeat that please   [YOU REPEAT PLEASE]
+======================================================================
+video: we are all with you__we are all with you (2).npy
+true sentence: we are all with you
+  1. 0.748  He is going into the room   [HE GO  INTO  ROOM]
+  2. 0.724  shall we go outside   [WE GO OUTSIDE]
+  3. 0.696  serve the food   [SERVE FOOD]
+======================================================================
+video: do not hurt me__do not hurt me (2).npy
+true sentence: do not hurt me
+  1. 0.861  i got hurt   [I GOT HURT]
+  2. 0.781  do not hurt me   [DONOT HURT ME]   <-- correct
+  3. 0.776  that is so kind of you   [THAT KIND YOU]
+======================================================================
+video: i am really grateful__MVI_6721.npy
+true sentence: i am really grateful
+  1. 0.867  nice to meet you   [NICE MEET YOU]
+  2. 0.857  i am fine. thank you sir   [I FINE. THANK YOU SIR]
+  3. 0.797  i am hungry   [I HUNGRY]
+======================================================================
+video: what you want__what you want (1).npy
+true sentence: what you want
+  1. 0.904  what is your phone number   [WHAT YOUR PHONE NUMBER]
+  2. 0.763  what do you do   [WHAT YOU DO]
+  3. 0.757  what are you doing   [WHAT YOU DO]
+======================================================================
+video: are you free today__free (3).npy
+true sentence: are you free today
+  1. 0.959  are you free today   [YOU FREE TODAY]   <-- correct
+  2. 0.648  i like you i love you   [I LIKE YOU I LOVE YOU]
+  3. 0.628  do not take it to the heart   [DO NOT TAKE IT HEART]
+======================================================================
+video: turn on light turn off light__turn on.npy
+true sentence: turn on light turn off light
+  1. 0.925  turn on light turn off light   [TURN ON LIGHT TURN OFF LIGHT]   <-- correct
+  2. 0.737  i somehow got to know about it   [I SOMEHOW GOT KNOW ABOUT IT]
+  3. 0.731  you need a medicine, take this one   [YOU NEED A MEDICINE, TAKE THIS ONE]
+======================================================================
+video: take care of yourself__take care.npy
+true sentence: take care of yourself
+  1. 0.971  take care of yourself   [TAKE CARE OF YOURSELF]   <-- correct
+  2. 0.835  i am so sorry to hear that   [I AM SO SORRY TO HEAR THAT]
+  3. 0.713  that is so kind of you   [THAT KIND YOU]
+======================================================================
+video: This place is beautiful__beautiful (4).npy
+true sentence: This place is beautiful
+  1. 0.811  This place is beautiful   [THIS PLACE BEAUTIFUL]   <-- correct
+  2. 0.632  He is going into the room   [HE GO  INTO  ROOM]
+  3. 0.554  when will the train leave   [WHEN TRAIN LEAVE]
+======================================================================
+video: who are you__who are you (1).npy
+true sentence: who are you
+  1. 0.798  you are welcome   [YOU WELCOME]
+  2. 0.699  congratulations   [CONGRATULATIIONS]
+  3. 0.674  what you want   [WHAT YOU WANT]
+======================================================================
+video: how can i help you__how can i help you (4).npy
+true sentence: how can i help you
+  1. 0.973  can i help you   [I HELP YOU]
+  2. 0.916  i can not help you there   [I NOT HELP YOU THERE]
+  3. 0.915  how can i help you   [HOW I HELP YOU]   <-- correct
+======================================================================
+video: i promise__promise (4).npy
+true sentence: i promise
+  1. 0.972  i promise   [I PROMISE]   <-- correct
+  2. 0.728  i am very happy   [I VERY HAPPY]
+  3. 0.704  i am really grateful   [I REALLY GRATEFUL]
+======================================================================
+video: you do anything, i do not care__dont care.npy
+true sentence: you do anything, i do not care
+  1. 0.745  you do anything, i do not care   [YOU DO ANYTHING, I DO NOT CARE]   <-- correct
+  2. 0.709  i am in dilemma what to do   [I IN DILEMMA WHAT TO DO]
+  3. 0.688  prepare the bed   [PREPARE BED]
+======================================================================
+video: how can i trust you__trust.npy
+true sentence: how can i trust you
+  1. 0.912  why are you disappointed   [WHY YOU DISAPPOINTED]
+  2. 0.842  what is your phone number   [WHAT YOUR PHONE NUMBER]
+  3. 0.754  who are you   [WHO YOU]
+======================================================================
+video: i somehow got to know about it__somehow.npy
+true sentence: i somehow got to know about it
+  1. 0.856  you are bad   [YOU BAD]
+  2. 0.804  what did you tell him   [WHAT YOU TELL HIM]
+  3. 0.744  what do you want to become   [WHAT DO YOU WANT BECOME]
+======================================================================
+video: you are bad__bad (2).npy
+true sentence: you are bad
+  1. 0.810  why are you disappointed   [WHY YOU DISAPPOINTED]
+  2. 0.667  what is your phone number   [WHAT YOUR PHONE NUMBER]
+  3. 0.531  who are you   [WHO YOU]
+======================================================================
+video: i am feeling cold__cold (5).npy
+true sentence: i am feeling cold
+  1. 0.887  i am crying   [I CRY]
+  2. 0.833  i need water   [I NEED WATER]
+  3. 0.788  why are you crying   [WHY YOU CRY]
+======================================================================
+video: do not make me angry__do not make me angry (2).npy
+true sentence: do not make me angry
+  1. 0.793  tell me truth   [TELL ME TRUTH]
+  2. 0.696  do not worry   [DO NOT WORRY]
+  3. 0.678  you are bad   [YOU BAD]
+======================================================================
+video: he she is my friend__friend (2).npy
+true sentence: he she is my friend
+  1. 0.901  he she is my friend   [HE SHE MY FRIEND]   <-- correct
+  2. 0.781  go and sleep   [GO SLEEP]
+  3. 0.721  i like you i love you   [I LIKE YOU I LOVE YOU]
+======================================================================
+video: my name is xxxxxxxx__my name is xxxxxxxx (1).npy
+true sentence: my name is xxxxxxxx
+  1. 0.627  my name is xxxxxxxx   [MY NAME XXXXXXXX]   <-- correct
+  2. 0.620  he would be coming today   [HE COMING TODAY]
+  3. 0.619  what you want   [WHAT YOU WANT]
+======================================================================
+video: i am suffering from fever__fever (3).npy
+true sentence: i am suffering from fever
+  1. 0.947  i am suffering from fever   [I SUFFERING FROM FEVER]   <-- correct
+  2. 0.720  i am not really sure   [I NOT REALLY SURE]
+  3. 0.702  tell me truth   [TELL ME TRUTH]
+======================================================================
+video: it was nice chatting with you__MVI_6853.npy
+true sentence: it was nice chatting with you
+  1. 0.647  wear the shirt   [WEAR SHIRT]
+  2. 0.623  it was nice chatting with you   [IT NICE CHAT WITH YOU]   <-- correct
+  3. 0.602  are you free today   [YOU FREE TODAY]
+======================================================================
+video: thank you so much__thank you so much (6).npy
+true sentence: thank you so much
+  1. 0.925  thank you so much   [THANK YOU SO MUCH]   <-- correct
+  2. 0.737  hi how are you   [HI HOW YOU]
+  3. 0.707  i am in dilemma what to do   [I IN DILEMMA WHAT TO DO]
+======================================================================
+video: what did you tell him__what did you tell him.npy
+true sentence: what did you tell him
+  1. 0.916  you are good   [YOU GOOD]
+  2. 0.832  you can do it   [YOU DO IT]
+  3. 0.827  congratulations   [CONGRATULATIIONS]
+======================================================================
+video: go and sleep__go and sleep (2).npy
+true sentence: go and sleep
+  1. 0.739  He is going into the room   [HE GO  INTO  ROOM]
+  2. 0.680  do not be stubborn   [DONOT BE STUBBORN]
+  3. 0.679  now onwards he will never hurt you   [NOW ONWARDS HE NEVER HURT YOU]
+======================================================================
+video: tell me truth__truth (2).npy
+true sentence: tell me truth
+  1. 0.772  tell me truth   [TELL ME TRUTH]   <-- correct
+  2. 0.768  i do not agree   [I DONOT AGREE]
+  3. 0.747  speak softly   [SPEAK SOFTLY]
+======================================================================
+video: which collegeschool are you from__college school.npy
+true sentence: which college school are you from
+  1. 0.803  i do not like it   [I DO NOT LIKE IT]
+  2. 0.783  which college school are you from   [WHICH COLLEGE SCHOOL YOU FROM]   <-- correct
+  3. 0.710  do you need something   [DO YOU NEED SOMETHING]
+======================================================================
+video: when will the train leave__leave (5).npy
+true sentence: when will the train leave
+  1. 0.693  when will the train leave   [WHEN TRAIN LEAVE]   <-- correct
+  2. 0.663  let him take time   [LET HIM TAKE TIME]
+  3. 0.599  do not worry   [DO NOT WORRY]
+======================================================================
+video: i am sitting in the class__sitting (2).npy
+true sentence: i am sitting in the class
+  1. 0.884  i am sitting in the class   [I SITTING IN THE CLASS]   <-- correct
+  2. 0.722  shall we go outside   [WE GO OUTSIDE]
+  3. 0.683  it was nice chatting with you   [IT NICE CHAT WITH YOU]
+======================================================================
+video: can you repeat that please__can you repeat that please (7).npy
+true sentence: can you repeat that please
+  1. 0.835  what is your phone number   [WHAT YOUR PHONE NUMBER]
+  2. 0.726  what do you do   [WHAT YOU DO]
+  3. 0.707  what you want   [WHAT YOU WANT]
+======================================================================
+video: do not abuse him__abuse (2).npy
+true sentence: do not abuse him
+  1. 0.714  do not abuse him   [DONOT ABUSE HIM]   <-- correct
+  2. 0.713  he she is my friend   [HE SHE MY FRIEND]
+  3. 0.588  had your food   [YOUR FOOD]
+======================================================================
+video: what happened__MVI_6495.npy
+true sentence: what happened
+  1. 0.918  what did you tell him   [WHAT YOU TELL HIM]
+  2. 0.817  what happened   [WHAT HAPPENED]   <-- correct
+  3. 0.747  you can do it   [YOU DO IT]
+======================================================================
+video: i can not help you there__i can not help you there.npy
+true sentence: i can not help you there
+  1. 0.709  how can i help you   [HOW I HELP YOU]
+  2. 0.687  what are you doing   [WHAT YOU DO]
+  3. 0.672  what do you do   [WHAT YOU DO]
+======================================================================
+video: shall we go outside__outside.npy
+true sentence: shall we go outside
+  1. 0.926  shall we go outside   [WE GO OUTSIDE]   <-- correct
+  2. 0.729  i am sitting in the class   [I SITTING IN THE CLASS]
+  3. 0.728  could you please talk slower   [YOU PLEASE TALK SLOWER]
+======================================================================
+video: comb your hair__comb (4).npy
+true sentence: comb your hair
+  1. 0.956  comb your hair   [COMB YOU HAIR]   <-- correct
+  2. 0.631  you need a medicine, take this one   [YOU NEED A MEDICINE, TAKE THIS ONE]
+  3. 0.586  go and sleep   [GO SLEEP]
+======================================================================
+video: he is on the way__way (4).npy
+true sentence: he is on the way
+  1. 0.859  i somehow got to know about it   [I SOMEHOW GOT KNOW ABOUT IT]
+  2. 0.835  what do you want to become   [WHAT DO YOU WANT BECOME]
+  3. 0.822  why are you angry   [WHY YOU ANGRY]
+======================================================================
+video: you are welcome__welcome (2).npy
+true sentence: you are welcome
+  1. 0.802  he came by train   [HE CAME TRAIN]
+  2. 0.706  do you need something   [DO YOU NEED SOMETHING]
+  3. 0.683  which college school are you from   [WHICH COLLEGE SCHOOL YOU FROM]
+======================================================================
+video: speak softly__softly 1.npy
+true sentence: speak softly
+  1. 0.791  what did you tell him   [WHAT YOU TELL HIM]
+  2. 0.748  speak softly   [SPEAK SOFTLY]   <-- correct
+  3. 0.736  bring water for me   [BRING WATER ME]
+======================================================================
+video: i am so sorry to hear that__sorry hear (5).npy
+true sentence: i am so sorry to hear that
+  1. 0.922  that is so kind of you   [THAT KIND YOU]
+  2. 0.853  i am so sorry to hear that   [I AM SO SORRY TO HEAR THAT]   <-- correct
+  3. 0.825  i got hurt   [I GOT HURT]
+======================================================================
+video: where are you from__where are you from (6).npy
+true sentence: where are you from
+  1. 0.824  where are you from   [WHERE YOU FROM]   <-- correct
+  2. 0.749  try to understand   [TRY TO UNDERSTAND]
+  3. 0.737  serve the food   [SERVE FOOD]
+======================================================================
+video: had your food__had your food.npy
+true sentence: had your food
+  1. 0.888  had your food   [YOUR FOOD]   <-- correct
+  2. 0.625  that is so kind of you   [THAT KIND YOU]
+  3. 0.619  i am afraid of that   [I AFRAID THAT]
+======================================================================
+video: i am very happy__very happy (2).npy
+true sentence: i am very happy
+  1. 0.964  i am very happy   [I VERY HAPPY]   <-- correct
+  2. 0.856  i am fine. thank you sir   [I FINE. THANK YOU SIR]
+  3. 0.777  i enjoyed a lot   [I ENJOYED A LOT]
+======================================================================
+video: i am (age)__i am (age) (1).npy
+true sentence: i am (age)
+  1. 0.924  i am crying   [I CRY]
+  2. 0.864  i am (age)   [I (AGE)]   <-- correct
+  3. 0.830  i need water   [I NEED WATER]
+======================================================================
+video: i do not agree__agree (3).npy
+true sentence: i do not agree
+  1. 0.788  it does not make any difference to me   [IT DO NOT MAKE ANY DIFFERENCE TO ME]
+  2. 0.777  it was nice chatting with you   [IT NICE CHAT WITH YOU]
+  3. 0.637  i am not really sure   [I NOT REALLY SURE]
+======================================================================
+video: hi how are you__hi how are you (4).npy
+true sentence: hi how are you
+  1. 0.814  hi how are you   [HI HOW YOU]   <-- correct
+  2. 0.632  i somehow got to know about it   [I SOMEHOW GOT KNOW ABOUT IT]
+  3. 0.620  This place is beautiful   [THIS PLACE BEAUTIFUL]
+======================================================================
+video: try to understand__understand (5).npy
+true sentence: try to understand
+  1. 0.852  try to understand   [TRY TO UNDERSTAND]   <-- correct
+  2. 0.738  i do not like it   [I DO NOT LIKE IT]
+  3. 0.604  i somehow got to know about it   [I SOMEHOW GOT KNOW ABOUT IT]
+======================================================================
+video: how old are you__how old are you (3).npy
+true sentence: how old are you
+  1. 0.786  i am (age)   [I (AGE)]
+  2. 0.757  what are you doing   [WHAT YOU DO]
+  3. 0.663  had your food   [YOUR FOOD]
+======================================================================
+video: you are good__good (2).npy
+true sentence: you are good
+  1. 0.982  you are good   [YOU GOOD]   <-- correct
+  2. 0.947  you can do it   [YOU DO IT]
+  3. 0.833  congratulations   [CONGRATULATIIONS]
+======================================================================
+video: he would be coming today__today (4).npy
+true sentence: he would be coming today
+  1. 0.830  he would be coming today   [HE COMING TODAY]   <-- correct
+  2. 0.729  you need a medicine, take this one   [YOU NEED A MEDICINE, TAKE THIS ONE]
+  3. 0.696  when will the train leave   [WHEN TRAIN LEAVE]
+======================================================================
+video: what do you do__what do you do (3).npy
+true sentence: what do you do
+  1. 0.820  what are you doing   [WHAT YOU DO]
+  2. 0.783  what do you do   [WHAT YOU DO]   <-- correct
+  3. 0.727  what is your phone number   [WHAT YOUR PHONE NUMBER]
+======================================================================
+video: i am not really sure__i am not really sure (2).npy
+true sentence: i am not really sure
+  1. 0.723  how can i help you   [HOW I HELP YOU]
+  2. 0.568  how can i trust you   [HOW I TRUST YOU]
+  3. 0.552  prepare the bed   [PREPARE BED]
+======================================================================
+video: wear the shirt__shirt (3).npy
+true sentence: wear the shirt
+  1. 0.860  wear the shirt   [WEAR SHIRT]   <-- correct
+  2. 0.806  how dare you   [HOW DARE YOU]
+  3. 0.736  can you repeat that please   [YOU REPEAT PLEASE]
+======================================================================
+video: it does not make any difference to me__difference (5).npy
+true sentence: it does not make any difference to me
+  1. 0.751  it does not make any difference to me   [IT DO NOT MAKE ANY DIFFERENCE TO ME]   <-- correct
+  2. 0.711  i promise   [I PROMISE]
+  3. 0.664  can you repeat that please   [YOU REPEAT PLEASE]
+======================================================================
+video: can i help you__help (3).npy
+true sentence: can i help you
+  1. 0.923  can i help you   [I HELP YOU]   <-- correct
+  2. 0.854  i can not help you there   [I NOT HELP YOU THERE]
+  3. 0.833  how can i help you   [HOW I HELP YOU]
+======================================================================
+video: pour some more water into the glass__pour.npy
+true sentence: pour some more water into the glass
+  1. 0.882  pour some more water into the glass   [POUR SOME MORE WATER INTO THE GLASS]   <-- correct
+  2. 0.741  turn on light turn off light   [TURN ON LIGHT TURN OFF LIGHT]
+  3. 0.717  you need a medicine, take this one   [YOU NEED A MEDICINE, TAKE THIS ONE]
+======================================================================
+video: you need a medicine, take this one__medicine.npy
+true sentence: you need a medicine, take this one
+  1. 0.872  serve the food   [SERVE FOOD]
+  2. 0.717  where are you from   [WHERE YOU FROM]
+  3. 0.628  i do not like it   [I DO NOT LIKE IT]
+======================================================================
+video: why are you crying__crying (4).npy
+true sentence: why are you crying
+  1. 0.853  do not abuse him   [DONOT ABUSE HIM]
+  2. 0.813  why are you crying   [WHY YOU CRY]   <-- correct
+  3. 0.704  i am (age)   [I (AGE)]
+======================================================================
+video: i like you i love you__i love you.npy
+true sentence: i like you i love you
+  1. 0.803  do not be stubborn   [DONOT BE STUBBORN]
+  2. 0.725  prepare the bed   [PREPARE BED]
+  3. 0.676  go and sleep   [GO SLEEP]
+======================================================================
+video: help me__help me (7).npy
+true sentence: help me
+  1. 0.843  i can not help you there   [I NOT HELP YOU THERE]
+  2. 0.747  how can i help you   [HOW I HELP YOU]
+  3. 0.714  do you need something   [DO YOU NEED SOMETHING]
+======================================================================
+video: i am crying__i am crying (3).npy
+true sentence: i am crying
+  1. 0.950  i am crying   [I CRY]   <-- correct
+  2. 0.945  i need water   [I NEED WATER]
+  3. 0.799  i am feeling cold   [I FEELING COLD]
+======================================================================
+video: what do you think__what do you think (1).npy
+true sentence: what do you think
+  1. 0.778  i do not like it   [I DO NOT LIKE IT]
+  2. 0.754  what do you think   [WHAT DO YOU THINK]   <-- correct
+  3. 0.655  why are you angry   [WHY YOU ANGRY]
+======================================================================
+video: do not worry__worry (2).npy
+true sentence: do not worry
+  1. 0.855  how can i trust you   [HOW I TRUST YOU]
+  2. 0.826  i got hurt   [I GOT HURT]
+  3. 0.726  do not hurt me   [DONOT HURT ME]
+======================================================================
+video: serve the food__serve 1.npy
+true sentence: serve the food
+  1. 0.875  do not abuse him   [DONOT ABUSE HIM]
+  2. 0.666  you need a medicine, take this one   [YOU NEED A MEDICINE, TAKE THIS ONE]
+  3. 0.625  he she is my friend   [HE SHE MY FRIEND]
+======================================================================
+video: why are you angry__why are you angry (2).npy
+true sentence: why are you angry
+  1. 0.836  what happened   [WHAT HAPPENED]
+  2. 0.652  what do you think   [WHAT DO YOU THINK]
+  3. 0.619  why are you crying   [WHY YOU CRY]
+======================================================================
+video: you can do it__can do.npy
+true sentence: you can do it
+  1. 0.980  you can do it   [YOU DO IT]   <-- correct
+  2. 0.924  you are good   [YOU GOOD]
+  3. 0.751  what did you tell him   [WHAT YOU TELL HIM]
+======================================================================
+video: i enjoyed a lot__i enjoyed a lot (2).npy
+true sentence: i enjoyed a lot
+  1. 0.480  why are you disappointed   [WHY YOU DISAPPOINTED]
+  2. 0.464  speak softly   [SPEAK SOFTLY]
+  3. 0.455  i really appreciate it   [I REALLY APPRECIATE IT]
+======================================================================
+video: what is your phone number__what is your phone number (1).npy
+true sentence: what is your phone number
+  1. 0.812  i am afraid of that   [I AFRAID THAT]
+  2. 0.774  what is your phone number   [WHAT YOUR PHONE NUMBER]   <-- correct
+  3. 0.657  what are you doing   [WHAT YOU DO]
+======================================================================
+video: i am fine. thank you sir__fine thank.npy
+true sentence: i am fine. thank you sir
+  1. 0.861  i am fine. thank you sir   [I FINE. THANK YOU SIR]   <-- correct
+  2. 0.834  i am hungry   [I HUNGRY]
+  3. 0.694  thank you so much   [THANK YOU SO MUCH]
+======================================================================
+video: i am tired__tired.npy
+true sentence: i am tired
+  1. 0.910  i am tired   [I TIRED]   <-- correct
+  2. 0.792  i am feeling bored   [I FEELING BORED]
+  3. 0.709  it was nice chatting with you   [IT NICE CHAT WITH YOU]
+======================================================================
+video: what do you want to become__become.npy
+true sentence: what do you want to become
+  1. 0.924  what do you want to become   [WHAT DO YOU WANT BECOME]   <-- correct
+  2. 0.804  why are you angry   [WHY YOU ANGRY]
+  3. 0.694  what did you tell him   [WHAT YOU TELL HIM]
+======================================================================
+video: do me a favour__favour (4).npy
+true sentence: do me a favour
+  1. 0.853  i promise   [I PROMISE]
+  2. 0.851  do me a favour   [DO ME FAVOUR]   <-- correct
+  3. 0.712  help me   [HELP ME]
+======================================================================
+video: could you please talk slower__could you please talk slower (3).npy
+true sentence: could you please talk slower
+  1. 0.738  you do anything, i do not care   [YOU DO ANYTHING, I DO NOT CARE]
+  2. 0.634  This place is beautiful   [THIS PLACE BEAUTIFUL]
+  3. 0.620  i am feeling bored   [I FEELING BORED]
+======================================================================
+video: i am in dilemma what to do__dilemma (4).npy
+true sentence: i am in dilemma what to do
+  1. 0.828  go and sleep   [GO SLEEP]
+  2. 0.734  prepare the bed   [PREPARE BED]
+  3. 0.696  tell me truth   [TELL ME TRUTH]
+======================================================================
+video: he came by train__train (3).npy
+true sentence: he came by train
+  1. 0.887  you are welcome   [YOU WELCOME]
+  2. 0.728  he came by train   [HE CAME TRAIN]   <-- correct
+  3. 0.659  what you want   [WHAT YOU WANT]
+======================================================================
+video: bring water for me__bring water for me (8).npy
+true sentence: bring water for me
+  1. 0.784  you are bad   [YOU BAD]
+  2. 0.675  had your food   [YOUR FOOD]
+  3. 0.667  what are you doing   [WHAT YOU DO]
+======================================================================
+video: i got hurt__i got hurt.npy
+true sentence: i got hurt
+  1. 0.951  i am really grateful   [I REALLY GRATEFUL]
+  2. 0.828  i am very happy   [I VERY HAPPY]
+  3. 0.819  i am fine. thank you sir   [I FINE. THANK YOU SIR]
+======================================================================
+video: prepare the bed__bed (4).npy
+true sentence: prepare the bed
+  1. 0.818  prepare the bed   [PREPARE BED]   <-- correct
+  2. 0.653  go and sleep   [GO SLEEP]
+  3. 0.620  i am feeling bored   [I FEELING BORED]
+======================================================================
+video: i am hungry__i am hungry   (3).npy
+true sentence: i am hungry
+  1. 0.852  i need water   [I NEED WATER]
+  2. 0.662  i am crying   [I CRY]
+  3. 0.662  you need a medicine, take this one   [YOU NEED A MEDICINE, TAKE THIS ONE]
+======================================================================
+video: i need water__i need water 1.npy
+true sentence: i need water
+  1. 0.938  i need water   [I NEED WATER]   <-- correct
+  2. 0.855  i am crying   [I CRY]
+  3. 0.786  i am feeling cold   [I FEELING COLD]
+======================================================================
+in this demo: correct at rank 1 = 43/99, correct in top 5 = 73/99

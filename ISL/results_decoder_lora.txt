@@ -1,0 +1,44 @@
+device: mps
+train examples: 333   val: 99   test: 99
+trainable params: 1,769,472 || all params: 249,347,328 || trainable%: 0.7096
+
+before training (val): {'decoder': 16.161616161616163, 'retrieval_top1': 50.505050505050505, 'ceiling': 75.75757575757575, 'fixed': 5, 'broken': 39, 'n': 99}
+epoch  1  loss 0.632  val decoder 34.3%  (retrieval 50.5%)  fixed 0 broke 16  (30s)
+epoch  2  loss 0.373  val decoder 40.4%  (retrieval 50.5%)  fixed 0 broke 10  (29s)
+epoch  3  loss 0.333  val decoder 42.4%  (retrieval 50.5%)  fixed 0 broke 8  (29s)
+epoch  4  loss 0.317  val decoder 41.4%  (retrieval 50.5%)  fixed 0 broke 9  (29s)
+epoch  5  loss 0.319  val decoder 39.4%  (retrieval 50.5%)  fixed 0 broke 11  (30s)
+epoch  6  loss 0.289  val decoder 40.4%  (retrieval 50.5%)  fixed 0 broke 10  (34s)
+epoch  7  loss 0.253  val decoder 43.4%  (retrieval 50.5%)  fixed 0 broke 7  (36s)
+epoch  8  loss 0.259  val decoder 41.4%  (retrieval 50.5%)  fixed 0 broke 9  (35s)
+
+best val accuracy 43.4%   (adapter saved to decoder_lora/)
+
+FINAL TEST (evaluated once):
+  true: This place is beautiful
+  retrieval: This place is beautiful
+  decoder:   He is going into the room   -> wrong
+
+  true: could you please talk slower
+  retrieval: you do anything, i do not care
+  decoder:   i am feeling bored   -> wrong
+
+  true: do not hurt me
+  retrieval: i got hurt
+  decoder:   do not hurt me   -> correct
+
+  true: i am (age)
+  retrieval: i am crying
+  decoder:   i am (age)   -> correct
+
+  true: i am fine. thank you sir
+  retrieval: i am fine. thank you sir
+  decoder:   i am hungry   -> wrong
+
+============================================================
+test videos                 : 99
+retrieval top-1             : 43.4%
+trained decoder (LoRA)      : 41.4%
+ceiling (true in top-5)     : 73.7%
+decoder fixed 4 retrieval mistakes and broke 6 correct answers
+(zero-shot baseline was 23.2%)

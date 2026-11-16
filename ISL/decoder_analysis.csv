@@ -1,0 +1,100 @@
+video,true,retrieval_pred,decoder_pred,outcome,true_rank,sim_gap_1_2,words_retrieval,words_decoder,decoder_changed
+He is going into the room__he is going into the room (2).npy,He is going into the room,shall we go outside,shall we go outside,both_wrong_in_top5,3,0.039,4,4,False
+This place is beautiful__beautiful (4).npy,This place is beautiful,This place is beautiful,He is going into the room,BROKEN,1,0.179,4,6,True
+are you free today__free (3).npy,are you free today,are you free today,are you free today,kept_correct,1,0.311,4,4,False
+are you hiding something__MVI_6685.npy,are you hiding something,are you hiding something,are you hiding something,kept_correct,1,0.014,4,4,False
+bring water for me__bring water for me (8).npy,bring water for me,you are bad,you are bad,both_wrong_not_in_top5,,0.109,3,3,False
+can i help you__help (3).npy,can i help you,can i help you,can i help you,kept_correct,1,0.069,4,4,False
+can you repeat that please__can you repeat that please (7).npy,can you repeat that please,what is your phone number,what is your phone number,both_wrong_not_in_top5,,0.109,5,5,False
+comb your hair__comb (4).npy,comb your hair,comb your hair,comb your hair,kept_correct,1,0.325,3,3,False
+congratulations__congratulations (3).npy,congratulations,congratulations,congratulations,kept_correct,1,0.172,1,1,False
+could you please talk slower__could you please talk slower (3).npy,could you please talk slower,"you do anything, i do not care",i am feeling bored,both_wrong_not_in_top5,,0.104,7,4,True
+do me a favour__favour (4).npy,do me a favour,i promise,i promise,both_wrong_in_top5,2,0.001,2,2,False
+do not abuse him__abuse (2).npy,do not abuse him,do not abuse him,do not abuse him,kept_correct,1,0.001,4,4,False
+do not be stubborn__stubborn.npy,do not be stubborn,do not take it to the heart,do not take it to the heart,both_wrong_in_top5,2,0.061,7,7,False
+do not hurt me__do not hurt me (2).npy,do not hurt me,i got hurt,do not hurt me,FIXED,2,0.08,3,4,True
+do not make me angry__do not make me angry (2).npy,do not make me angry,tell me truth,tell me truth,both_wrong_in_top5,5,0.097,3,3,False
+do not take it to the heart__heart (3).npy,do not take it to the heart,do not take it to the heart,do not take it to the heart,kept_correct,1,0.219,7,7,False
+do not worry__worry (2).npy,do not worry,how can i trust you,how can i trust you,both_wrong_not_in_top5,,0.029,5,5,False
+do you need something__need something (2).npy,do you need something,are you hiding something,are you hiding something,both_wrong_in_top5,2,0.037,4,4,False
+go and sleep__go and sleep (2).npy,go and sleep,He is going into the room,He is going into the room,both_wrong_not_in_top5,,0.059,6,6,False
+had your food__had your food.npy,had your food,had your food,had your food,kept_correct,1,0.263,3,3,False
+he came by train__train (3).npy,he came by train,you are welcome,you are welcome,both_wrong_in_top5,2,0.159,3,3,False
+he is on the way__way (4).npy,he is on the way,i somehow got to know about it,i somehow got to know about it,both_wrong_not_in_top5,,0.024,7,7,False
+he she is my friend__friend (2).npy,he she is my friend,he she is my friend,he she is my friend,kept_correct,1,0.12,5,5,False
+he would be coming today__today (4).npy,he would be coming today,he would be coming today,he would be coming today,kept_correct,1,0.101,5,5,False
+help me__help me (7).npy,help me,i can not help you there,i can not help you there,both_wrong_not_in_top5,,0.096,6,6,False
+hi how are you__hi how are you (4).npy,hi how are you,hi how are you,hi how are you,kept_correct,1,0.183,4,4,False
+how are things__things (4).npy,how are things,how are things,how are things,kept_correct,1,0.034,3,3,False
+how can i help you__how can i help you (4).npy,how can i help you,can i help you,can i help you,both_wrong_in_top5,3,0.057,4,4,False
+how can i trust you__trust.npy,how can i trust you,why are you disappointed,why are you disappointed,both_wrong_not_in_top5,,0.069,4,4,False
+how dare you__dare (4).npy,how dare you,wear the shirt,wear the shirt,both_wrong_in_top5,2,0.002,3,3,False
+how old are you__how old are you (3).npy,how old are you,i am (age),i am (age),both_wrong_in_top5,4,0.029,3,3,False
+i am (age)__i am (age) (1).npy,i am (age),i am crying,i am (age),FIXED,2,0.06,3,3,True
+i am afraid of that__afraid (2).npy,i am afraid of that,i am afraid of that,i am afraid of that,kept_correct,1,0.011,5,5,False
+i am crying__i am crying (3).npy,i am crying,i am crying,i am crying,kept_correct,1,0.004,3,3,False
+i am feeling bored__bored (5).npy,i am feeling bored,i am feeling bored,i am feeling bored,kept_correct,1,0.079,4,4,False
+i am feeling cold__cold (5).npy,i am feeling cold,i am crying,i am crying,both_wrong_in_top5,4,0.054,3,3,False
+i am fine. thank you sir__fine thank.npy,i am fine. thank you sir,i am fine. thank you sir,i am hungry,BROKEN,1,0.026,6,3,True
+i am hungry__i am hungry   (3).npy,i am hungry,i need water,i need water,both_wrong_not_in_top5,,0.19,3,3,False
+i am in dilemma what to do__dilemma (4).npy,i am in dilemma what to do,go and sleep,go and sleep,both_wrong_in_top5,5,0.094,3,3,False
+i am not really sure__i am not really sure (2).npy,i am not really sure,how can i help you,how can i help you,both_wrong_not_in_top5,,0.155,5,5,False
+i am really grateful__MVI_6721.npy,i am really grateful,nice to meet you,nice to meet you,both_wrong_in_top5,4,0.01,4,4,False
+i am sitting in the class__sitting (2).npy,i am sitting in the class,i am sitting in the class,i am sitting in the class,kept_correct,1,0.162,6,6,False
+i am so sorry to hear that__sorry hear (5).npy,i am so sorry to hear that,that is so kind of you,that is so kind of you,both_wrong_in_top5,2,0.069,6,6,False
+i am suffering from fever__fever (3).npy,i am suffering from fever,i am suffering from fever,i am suffering from fever,kept_correct,1,0.227,5,5,False
+i am tired__tired.npy,i am tired,i am tired,i am feeling bored,BROKEN,1,0.118,3,4,True
+i am very happy__very happy (2).npy,i am very happy,i am very happy,i am very happy,kept_correct,1,0.108,4,4,False
+i can not help you there__i can not help you there.npy,i can not help you there,how can i help you,how can i help you,both_wrong_not_in_top5,,0.022,5,5,False
+i do not agree__agree (3).npy,i do not agree,it does not make any difference to me,it was nice chatting with you,both_wrong_not_in_top5,,0.011,8,6,True
+i do not like it__hate it.npy,i do not like it,i do not like it,i do not like it,kept_correct,1,0.054,5,5,False
+i do not mean it__i do not mean it.npy,i do not mean it,serve the food,serve the food,both_wrong_in_top5,2,0.018,3,3,False
+i enjoyed a lot__i enjoyed a lot (2).npy,i enjoyed a lot,why are you disappointed,why are you disappointed,both_wrong_not_in_top5,,0.016,4,4,False
+i got hurt__i got hurt.npy,i got hurt,i am really grateful,i am very happy,both_wrong_not_in_top5,,0.123,4,4,True
+i like you i love you__i love you.npy,i like you i love you,do not be stubborn,do not be stubborn,both_wrong_in_top5,4,0.078,4,4,False
+i need water__i need water 1.npy,i need water,i need water,i need water,kept_correct,1,0.083,3,3,False
+i promise__promise (4).npy,i promise,i promise,i promise,kept_correct,1,0.244,2,2,False
+i really appreciate it__i really appreciate it (2).npy,i really appreciate it,i really appreciate it,i really appreciate it,kept_correct,1,0.086,4,4,False
+i somehow got to know about it__somehow.npy,i somehow got to know about it,you are bad,you are bad,both_wrong_not_in_top5,,0.052,3,3,False
+i was stopped by some one__MVI_6504.npy,i was stopped by some one,i am tired,i am tired,both_wrong_not_in_top5,,0.05,3,3,False
+it does not make any difference to me__difference (5).npy,it does not make any difference to me,it does not make any difference to me,it does not make any difference to me,kept_correct,1,0.04,8,8,False
+it was nice chatting with you__MVI_6853.npy,it was nice chatting with you,wear the shirt,wear the shirt,both_wrong_in_top5,2,0.024,3,3,False
+let him take time__time (3).npy,let him take time,let him take time,let him take time,kept_correct,1,0.171,4,4,False
+my name is xxxxxxxx__my name is xxxxxxxx (1).npy,my name is xxxxxxxx,my name is xxxxxxxx,my name is xxxxxxxx,kept_correct,1,0.007,4,4,False
+nice to meet you__nice to meet you (8).npy,nice to meet you,why are you disappointed,why are you disappointed,both_wrong_not_in_top5,,0.039,4,4,False
+now onwards he will never hurt you__now onwards he will never hurt you.npy,now onwards he will never hurt you,do not worry,do not worry,both_wrong_not_in_top5,,0.002,3,3,False
+pour some more water into the glass__pour.npy,pour some more water into the glass,pour some more water into the glass,pour some more water into the glass,kept_correct,1,0.142,7,7,False
+prepare the bed__bed (4).npy,prepare the bed,prepare the bed,prepare the bed,kept_correct,1,0.165,3,3,False
+serve the food__serve 1.npy,serve the food,do not abuse him,do not abuse him,both_wrong_not_in_top5,,0.209,4,4,False
+shall we go outside__outside.npy,shall we go outside,shall we go outside,shall we go outside,kept_correct,1,0.197,4,4,False
+speak softly__softly 1.npy,speak softly,what did you tell him,speak softly,FIXED,2,0.043,5,2,True
+take care of yourself__take care.npy,take care of yourself,take care of yourself,take care of yourself,kept_correct,1,0.136,4,4,False
+tell me truth__truth (2).npy,tell me truth,tell me truth,tell me truth,kept_correct,1,0.004,3,3,False
+thank you so much__thank you so much (6).npy,thank you so much,thank you so much,thank you so much,kept_correct,1,0.187,4,4,False
+that is so kind of you__that is so kind of you (2).npy,that is so kind of you,i am very happy,i am very happy,both_wrong_not_in_top5,,0.009,4,4,False
+try to understand__understand (5).npy,try to understand,try to understand,try to understand,kept_correct,1,0.113,3,3,False
+turn on light turn off light__turn on.npy,turn on light turn off light,turn on light turn off light,turn on light turn off light,kept_correct,1,0.188,6,6,False
+we are all with you__we are all with you (2).npy,we are all with you,He is going into the room,He is going into the room,both_wrong_in_top5,5,0.024,6,6,False
+wear the shirt__shirt (3).npy,wear the shirt,wear the shirt,wear the shirt,kept_correct,1,0.054,3,3,False
+what are you doing__what are you doing (8).npy,what are you doing,what do you do,what do you do,both_wrong_in_top5,2,0.127,4,4,False
+what did you tell him__what did you tell him.npy,what did you tell him,you are good,congratulations,both_wrong_not_in_top5,,0.083,3,1,True
+what do you do__what do you do (3).npy,what do you do,what are you doing,what are you doing,both_wrong_in_top5,2,0.037,4,4,False
+what do you think__what do you think (1).npy,what do you think,i do not like it,i do not like it,both_wrong_in_top5,2,0.024,5,5,False
+what do you want to become__become.npy,what do you want to become,what do you want to become,what do you want to become,kept_correct,1,0.12,6,6,False
+what happened__MVI_6495.npy,what happened,what did you tell him,what did you tell him,both_wrong_in_top5,2,0.102,5,5,False
+what have you planned for your career__what have you planned for your career.npy,what have you planned for your career,do not be stubborn,do not be stubborn,both_wrong_not_in_top5,,0.038,4,4,False
+what is your phone number__what is your phone number (1).npy,what is your phone number,i am afraid of that,what is your phone number,FIXED,2,0.039,5,5,True
+what you want__what you want (1).npy,what you want,what is your phone number,what is your phone number,both_wrong_in_top5,4,0.141,5,5,False
+when will the train leave__leave (5).npy,when will the train leave,when will the train leave,when will the train leave,kept_correct,1,0.03,5,5,False
+where are you from__where are you from (6).npy,where are you from,where are you from,where are you from,kept_correct,1,0.075,4,4,False
+which collegeschool are you from__college school.npy,which college school are you from,i do not like it,i do not like it,both_wrong_in_top5,2,0.019,5,5,False
+who are you__who are you (1).npy,who are you,you are welcome,congratulations,both_wrong_not_in_top5,,0.099,3,1,True
+why are you angry__why are you angry (2).npy,why are you angry,what happened,what happened,both_wrong_not_in_top5,,0.184,2,2,False
+why are you crying__crying (4).npy,why are you crying,do not abuse him,do not abuse him,both_wrong_in_top5,2,0.04,4,4,False
+why are you disappointed__disappointed (4).npy,why are you disappointed,what do you think,what do you do,both_wrong_not_in_top5,,0.074,4,4,True
+you are bad__bad (2).npy,you are bad,why are you disappointed,why are you disappointed,both_wrong_not_in_top5,,0.143,4,4,False
+you are good__good (2).npy,you are good,you are good,congratulations,BROKEN,1,0.035,3,1,True
+you are welcome__welcome (2).npy,you are welcome,he came by train,he came by train,both_wrong_in_top5,5,0.096,4,4,False
+you can do it__can do.npy,you can do it,you can do it,congratulations,BROKEN,1,0.056,4,1,True
+"you do anything, i do not care__dont care.npy","you do anything, i do not care","you do anything, i do not care",prepare the bed,BROKEN,1,0.036,7,3,True
+"you need a medicine, take this one__medicine.npy","you need a medicine, take this one",serve the food,serve the food,both_wrong_in_top5,5,0.154,3,3,False

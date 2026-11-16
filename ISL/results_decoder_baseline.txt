@@ -1,0 +1,32 @@
+
+video: He is going into the room__he is going into the room (2).npy
+  true:      He is going into the room
+  retrieval: shall we go outside
+  decoder:   now onwards he will never hurt you   -> wrong
+
+video: This place is beautiful__beautiful (4).npy
+  true:      This place is beautiful
+  retrieval: This place is beautiful
+  decoder:   we are all with you   -> wrong
+
+video: are you hiding something__MVI_6685.npy
+  true:      are you hiding something
+  retrieval: are you hiding something
+  decoder:   how can i help you   -> wrong
+
+video: bring water for me__bring water for me (8).npy
+  true:      bring water for me
+  retrieval: you are bad
+  decoder:   what are you doing   -> wrong
+
+video: can i help you__help (3).npy
+  true:      can i help you
+  retrieval: can i help you
+  decoder:   help me   -> wrong
+
+============================================================
+model: google/flan-t5-base   test videos: 99
+retrieval top-1 accuracy : 43.4%
+decoder pick accuracy    : 23.2%
+upper bound (true sentence in top-5): 73.7%
+decoder fixed 5 retrieval mistakes and broke 25 correct answers
